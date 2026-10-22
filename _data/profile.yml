@@ -40,7 +40,7 @@ education:
     Ph.D. Student
   date: Sep. 2022 - present
 - name: ETH Zürich
-  logo: /assets/images/badges/ETH_Zürich_Logo_black.svg
+  logo: /assets/images/badges/ETHZ.svg
   position: MSc in Computational Biology and Bioinfomatics
   date: Sep. 2017 - Apr. 2020
 - name: EPFL
@@ -50,7 +50,7 @@ education:
 
 experience:
  - name: ETH Zürich
-   logo: /assets/images/badges/ETH_Zürich_Logo_black.svg
+   logo: /assets/images/badges/ETHZ.svg
    position: Data Scientist and Geospatial Programmer
    date: Jun. 2020 - May 2022
 
