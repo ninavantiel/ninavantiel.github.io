@@ -30,27 +30,27 @@ short_bio: >-
 
 portrait_url: /assets/images/photos/lookslikeinat.jpeg
 #portrait_caption: >-
-#  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+#  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).	
 
 education:
 - name: EPFL
-  #logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/Logo_EPFL_2019.svg
   position: >- 
     Department of Environmental Sciences and Engineering <br/>
     Ph.D. Student
   date: Sep. 2022 - present
 - name: ETH Zürich
-  #logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/ETH_Zürich_Logo_black.svg
   position: MSc in Computational Biology and Bioinfomatics
   date: Sep. 2017 - Apr. 2020
 - name: EPFL
-  #logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/Logo_EPFL_2019.svg
   position: BSc in Life Sciences and Technologies
   date: Sep. 2013 - Jul. 2016
 
 experience:
  - name: ETH Zürich
-   #logo: /assets/images/badges/PKU_red.png
+   logo: /assets/images/badges/ETH_Zürich_Logo_black.svg
    position: Data Scientist and Geospatial Programmer
    date: Jun. 2020 - May 2022
 
